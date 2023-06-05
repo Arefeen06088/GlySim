@@ -1,1 +1,1 @@
-# GlySim-Modeling-and-Simulating-Glycemic-Response
+# GlySim: Modeling and Simulating Glycemic Response
